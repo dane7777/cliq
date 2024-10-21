@@ -1,0 +1,289 @@
+<html>
+    <head>
+        <title>TATA CLIQ</title>
+        <link href="https://i.ibb.co/54ZgrBM/tata-cliq-logo.png" rel="icon"/>
+        <link href="Tata-cliq-home-stylesheet.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <header>
+            <div id="brand">
+                <img src="https://i.ibb.co/3F05tGD/Tata-Cliq-logo-brand.png" id="brand-logo"/>
+            </div>
+            <div class="menu">
+                <a href="">CLIQ Cash</a>
+                <a href="">Gift Card</a>
+                <a href="">CLIQ Care</a>
+                <a href="">Track Orders</a>
+                <a href=""><img src="https://i.ibb.co/176mKyS/my-account-icon.png" alt="my-account-icon"/></a>
+            </div> 
+            <div class="search">
+                <select>
+                    <option>Categories</option>
+                </select>
+                <select id="brand-select">
+                    <option>Brands</option>
+                </select>
+                <input type="text" placeholder="Search..CLiQ..">
+                <a href=""><img id="wishlist" src="https://i.ibb.co/jG4R1T3/wishlist-black.jpg" alt="wishlist"/></a>
+                <a href=""><img id="mybag" src="https://i.ibb.co/Gx5THHy/My-bag.jpg" alt="My-bag"/></a>
+            </div>
+        </header>
+        <!-- <div class="homepage"> -->
+        <div class="banner">
+            <a href=""><img src="https://i.ibb.co/2tkPGgX/Cliqhome-banner.png" alt="Cliqhome-banner"/></a>
+        </div>
+        <div id="category-list">
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/gPt0QKQ/westside.jpg" alt="westside"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/CshY0K6/Footwear.jpg" alt="Footwear"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/Qby8wph/Beauty.jpg" alt="Beauty"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/DpSQsV0/womens-wear.jpg" alt="womens-wear"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/xYBqW1x/Menswear.jpg" alt="Menswear"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/Jz8pgTn/Kidswear.jpg" alt="Kidswear"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/sm638Zb/Home.jpg" alt="Home"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/kqRPwb0/watches.jpg" alt="watches"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/6N1v54g/jewellery.jpg" alt="jewellery"/></a>
+            </div>
+            <div class="Category">
+                <a href=""><img src="https://i.ibb.co/gwDtwGm/gadgets.jpg" alt="gadgets"/></a>
+            </div>
+            <div class="Category">
+                <a href="https://imgbb.com/"><img src="https://i.ibb.co/TL7DtxY/Furniture.jpg" alt="Furniture"/></a>
+            </div>
+        </div>
+        <div class="bankoffer">
+            <a href="https://ibb.co/WxJDR1y"><img src="https://i.ibb.co/4mrs0xT/bank-offer-home.jpg" alt="bank-offer-home"/></a>
+        </div>
+        <div class="headings">
+            <span class="mainheading">DEALS WHEELS</span>
+            <span class="subheading">Grab these before they're gone</span>
+        </div>
+        <div class="items">
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/mJ7G20h/deals1.jpg" alt="deals1"/></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/VmYCSzf/deals2.jpg" alt="deals2"/></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/Y8rXtqy/deals3.jpg" alt="deals3"/></a>
+            </div>
+            <div class="itembanner">
+                <a href="https://imgbb.com/"><img src="https://i.ibb.co/02G6c2K/deals4.jpg" alt="deals4"/></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/d53gWr9/deals5.jpg" alt="deals5" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/VN4MPj9/deals6.jpg" alt="deals6" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/B4Rbb1J/deals7.jpg" alt="deals7" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/ZH0ZFZV/deals8.jpg" alt="deals8" border="0"></a>
+            </div>
+                
+        </div>
+        <div class="headings">
+            <span class="mainheading">FEATURED BRANDS</span>
+            <span class="subheading">Celebrating the brands in spotlight</span>
+        </div>
+        <div class="items">
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/cw5k5gQ/brand1.jpg" alt="brand1" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/fYJWzNb/brand2.jpg" alt="brand2" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/9tXJFWM/brand3.jpg" alt="brand3" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/0tM749m/brand4.jpg" alt="brand4" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/JyY48yP/brand5.jpg" alt="brand5" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/CbwrCbx/brand6.jpg" alt="brand6" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/LvyWgpr/brand7.jpg" alt="brand7" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/981q8WQ/brand8.jpg" alt="brand8" border="0"></a>
+            </div>
+        </div>
+        <div class="headings">
+            <span class="mainheading">SS '23 SELEQT</span>
+            <span class="subheading">New season, new collections</span>
+        </div>
+        <div class="brand-ads">
+            <a href=""><img src="https://i.ibb.co/1bWp7Kw/ads-banner.jpg" alt="ads-banner" border="0"></a>
+        </div>
+        <div class="headings">
+            <span class="mainheading">GADGET CENTRAL</span>
+            <span class="subheading">Tech to meet every need</span>
+        </div>
+        <div class="brand-ads">
+            <a href=""><img src="https://i.ibb.co/Rpt025G/ads-banner2.jpg" alt="ads-banner2" border="0"></a>
+        </div>
+        <div class="items">
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/ngnMDg4/gadget1.jpg" alt="gadget1" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/JdpFH1L/gadget2.jpg" alt="gadget2" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/9WYFSk5/gadget3.jpg" alt="gadget3" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/ZNdjxV6/gadget4.jpg" alt="gadget4" border="0"></a>
+            </div>
+        </div>
+        <div class="headings">
+            <span class="mainheading">NEW ON CLiQ</span>
+            <span class="subheading">Fresh piQs to choose from</span>
+        </div>
+        <div class="brand-ads">
+            <a href=""><img src="https://i.ibb.co/R9hfVty/ads-banner3.jpg" alt="ads-banner3" border="0"></a>
+        </div>
+        <div class="items">
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/vqMX6Lh/newproduct1.jpg" alt="newproduct1" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/LPd54wg/newproduct2.jpg" alt="newproduct2" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/WzYXc3y/newproduct3.jpg" alt="newproduct3" border="0"></a>
+            </div>
+            <div class="itembanner">
+                <a href=""><img src="https://i.ibb.co/smZLHwP/newproduct4.jpg" alt="newproduct4" border="0"></a>
+            </div>
+        </div>
+        
+        <footer>
+            <div class="tata-trust">
+                <a href=""><img src="https://i.ibb.co/hH3Ymc6/tata-trust.jpg" alt="tata-trust" border="0"></a>
+                <div class="feedback">
+                    <img src="https://i.ibb.co/dGGxSCS/feedback.jpg" alt="feedback" border="0">
+                </div>
+                <div id="feedback-button">
+                    <a href="">Give Feedback</a>
+                </div>   
+            </div>
+            <div class="footDiv">
+                <ul style="line-height: 170%;">
+                    <li><h4>Tata MarketPlace</h4></li>
+                    <li><a href="">About us</a></li>
+                    <li><a href="">Careers</a></li>
+                    <li><a href="">Sell With Us</a></li>
+                    <li><a href="">Terms of Use</a></li>
+                    <li><a href="">Privacy Policy</a></li>
+                    <li><a href="">Affiliates</a></li>
+                    <li><a href="">Sitemap</a></li>
+                </ul>
+            </div>
+            <div class="footDiv">
+                <ul style="line-height: 170%;">
+                    <li><h4>Customer Service</h4></li>
+                    <li><a href="">Shopping</a></li>
+                    <li><a href="">Offers & Promotions</a></li>
+                    <li><a href="">Payments</a></li>
+                    <li><a href="">Cancellation</a></li>
+                    <li><a href="">Returns & Refunds</a></li>
+                    <li><a href="">CliQ And PiQ</a></li>
+                    <li><a href="">Return To Store</a></li>
+                    <li><a href="">Contact Us</a></li>
+                    <li><a href="">Reviews Guidelines</a></li>
+                    <li><a href="">Furniture Return Policy</a></li>
+                    <li><a href="">Replacement Policy</a></li>
+                </ul>
+            </div>
+            <div class="footDiv">
+                <ul style="line-height: 170%;">
+                    <li><h4>My Tata CLiQ</h4></li>
+                    <li><a href="">My Account</a></li>
+                    <li><a href="">My Orders</a></li>
+                    <li><a href="">My Shopping Bag</a></li>
+                    <li><a href="">My Wishlist</a></li>
+                    
+                </ul>
+            </div>
+            <div class="Offerings">
+                
+                <h4 style="line-height: 170%;">Tata CLiQ Offerings</h4>
+                <a href=""><span>Watches for Men</span></a><span> | </span>
+                <a href=""><span>Campus Shoes</span></a><span> | </span> 
+                <a href=""><span>Sandals for Men</span></a><span> | </span>
+                <a href=""><span>Sneakers for Men</span></a><span> | </span>
+                <a href=""><span>Reebok Shoes</span></a><span> | </span>
+                <a href=""><span>Cotton Kurtis</span></a><span> | </span>
+                <a href=""><span>Woodland Shoes</span></a><span> | </span>
+                <a href=""><span>Jumpsuits</span></a><span> | </span>
+                <a href=""><span>Allen Solly</span></a><span> | </span>
+                <a href=""><span>Sparx Shoes</span></a><span> | </span>
+                <a href=""><span>Gold Rings</span></a><span> | </span>
+                <a href=""><span>Formal Shoes for Men</span></a><span> | </span>
+                <a href=""><span>Sports Shoes for Men</span></a><span> | </span>
+                <a href=""><span>Wallets for Men</span></a><span> | </span>
+                <a href=""><span>Trolley Bags</span></a><span> | </span>
+                <a href=""><span>Handbags for Women</span></a><span> | </span>
+                <a href=""><span>Sling Bags for Women</span></a><span> | </span>
+                <a href=""><span>Casual Shoes for Men</span></a><span> | </span>
+                <a href=""><span>Boots for Men</span></a><span> | </span>
+                <a href=""><span>Digital Watches</span></a><span> | </span>
+                <a href=""><span>Sonata Watches</span></a><span> | </span>
+                <a href=""><span>Sneakers for Women</span></a><span> | </span>
+                <a href=""><span>Running Shoes</span></a><span> | </span>
+                <a href=""><span>Puma Shoes</span></a><span> | </span>
+                <a href=""><span>Boots for Women</span></a><span> | </span>
+                <a href=""><span>Skechers</span></a><span> | </span>
+                <a href=""><span>Malabargold</span></a><span> | </span>
+                <a href=""><span>Fabindia</span></a><span> | </span>
+                <a href=""><span>Utsa</span></a><span> | </span>
+                <a href=""><span>Vark</span></a><span> | </span>
+                <a href=""><span>Gia</span></a><span> | </span>
+                <a href=""><span>LOV</span></a><span> | </span>
+                <a href=""><span>Sitemap</span></a>
+                    
+            </div>
+            <div class="social-links">
+                <span>
+                    Download App:
+                </span>
+                    <a href=""><img src="https://i.ibb.co/RyDdyXS/android.png" alt="android"/></a>
+                    <a href=""><img src="https://i.ibb.co/cxBfWNn/ios-logo.png" alt="ios"/></a>
+                <div class="socialmedia">
+                    <a href=""><img src="https://i.ibb.co/Tm2dWr2/fbpng.png" alt="fb"></a>
+                    <a href=""><img src="https://i.ibb.co/MhjhvWM/twitter.png" alt="twitter"/></a>
+                    <a href=""><img src="https://i.ibb.co/W5K9L7j/insta.jpg" alt="insta"/></a>
+                    <a href=""><img src="https://i.ibb.co/9qRHpyD/YT.png" alt="YT"/></a>
+                    <a href=""><img src="https://i.ibb.co/kKdyNDW/in.png" alt="in"/></a>
+                </div>
+                <div class="copyrights">
+                    <span>&copy; 2023 Tata CLiQ | All rights reserved</span>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
